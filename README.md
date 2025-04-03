@@ -1,8 +1,8 @@
-# Dynamic Web Development Week 1
+# Dynamic Web Development Week 2
 
-Design and Develop a website about New York using a strong grid drawn from Swiss Poster Design.
+Code a simple website using ONLY HTML and CSS inspired by Rhizome's Artbase.
 
-Availble to View at [Glitch.com](https://glitch.com/)
+Availble to View On Glitch [Here](https://famous-watery-manuscript.glitch.me)
 
 ## Mood Board and Inspiration
 
@@ -29,38 +29,19 @@ Availble to View at [Glitch.com](https://glitch.com/)
   </tr>
 </table>
 
-## Sketches & Wireframes
+## Final Website
+
+I wanted to play arounud with some 3D scanned objects / 3D models as navigation but only using HTML and CSS. I figured I could take my 3D assets into After Effects, make them more dynamic, and export as gifs. I then matched the motion using basic CSS animation and created 6 floating navigation anchors that take you though the gigantic sea of text.
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="300"/><br>
-      Rough Sketches
+      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_OnLoad.gif" width="450"/><br>
+      On Load
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="300"/><br>
-      Figma Wireframes - B&W and Layout
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="300"/><br>
-      Figma Wireframes - Color
-    </td>
-  </tr>
-</table>
-
-## Final Design
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
-      Mood Board Image 1
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_Sketch.png" width="400"/><br>
-      Mood Board Image 2
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_Interaction_1.gif" width="450"/><br>
+      Interaction
     </td>
   </tr>
 </table>
