@@ -41,11 +41,11 @@ Obviously the UI/UX of this is dogshit, but it was fun to make.
   <tr>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-InternetArt/blob/main/process/DWD_Week1_Final_1.gif" width="450"/><br>
-      On Load
+      Navigation Hover
     </td>
     <td align="center">
       <img src="https://github.com/alyssakalbus/DWD-InternetArt/blob/main/process/DWD_Week1_Final_2.gif" width="450"/><br>
-      Interaction
+      Navigation Click
     </td>
   </tr>
 </table>
