@@ -1,6 +1,47 @@
-# DWD - InternetArt
-Dynamic Web Development @ ITP Week 1
+# Dynamic Web Development Week 2
 
-This week I wanted to focus on trying to incorporate 3D objects without using Javascript or WEBGL. To do this I created a weird navigation that uses a 
+Code a simple website using ONLY HTML and CSS inspired by Rhizome's Artbase.
 
-The text is all derived from various talks and papers revolving around the power of big tech in the surveillance industry and 
+Availble to View On Glitch [Here](https://famous-watery-manuscript.glitch.me)
+
+## Mood Board and Inspiration
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_1.jpg" width="300"/><br>
+      Mood Board Image 1
+    </td>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_2.jpg" width="300"/><br>
+      Mood Board Image 2
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_3.gif" width="300"/><br>
+      Mood Board Image 3
+    </td>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_MoodBoard_4.jpg" width="300"/><br>
+      Mood Board Image 4
+    </td>
+  </tr>
+</table>
+
+## Final Website
+
+I wanted to play arounud with some 3D scanned objects / 3D models as navigation but only using HTML and CSS. I figured I could take my 3D assets into After Effects, make them more dynamic, and export as gifs. I then matched the motion using basic CSS animation and created 6 floating navigation anchors that take you though the gigantic sea of text.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/alyssakalbus/DWD-Grids/main/process/DWD_Week2_OnLoad.gif" width="450"/><br>
+      On Load
+    </td>
+    <td align="center">
+      <img src="https://github.com/alyssakalbus/DWD-Grids/blob/main/process/DWD_Week2_Interaction_1.gif" width="450"/><br>
+      Interaction
+    </td>
+  </tr>
+</table>
