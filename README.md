@@ -6,7 +6,7 @@ Availble to View On Glitch [Here](https://ruby-brindle-sleet.glitch.me/) - unfor
 
 ## Mood Board and Inspiration
 
-I wanted to play arounud with some 3D scanned objects / 3D models as navigation but only using HTML and CSS. 
+I wanted to play around with some 3D scanned objects / 3D models as navigation but only using HTML and CSS. 
 
 I figured I could take my 3D assets into After Effects, make them more dynamic, and export as gifs. I then matched the motion using basic CSS animation and created 6 floating navigation anchors that take you though the gigantic sea of text. 
 
