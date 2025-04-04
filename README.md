@@ -2,7 +2,7 @@
 
 Code a simple website using ONLY HTML and CSS inspired by Rhizome's Artbase.
 
-Availble to View On Glitch [Here](https://ruby-brindle-sleet.glitch.me/) - unfortunately the custom cursor doesn't work :(
+Availble to View On Glitch [Here](https://ruby-brindle-sleet.glitch.me/)
 
 ## Mood Board and Inspiration
 
