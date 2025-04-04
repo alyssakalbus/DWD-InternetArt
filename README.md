@@ -35,7 +35,7 @@ I figured I could take my 3D assets into After Effects, make them more dynamic, 
 
 ## Final Website
 
-Obviously the UI/UX of this is dogshit, but it was fun to make.
+Obviously the UI/UX of this is very bad, but it was fun to make.
 
 <table>
   <tr>
